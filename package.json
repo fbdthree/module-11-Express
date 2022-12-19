@@ -1,0 +1,28 @@
+{
+  "name": "module-11-express",
+  "version": "1.0.0",
+  "description": "Express server setup app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbdthree/module-11-Express.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "fs",
+    "json"
+  ],
+  "author": "Braden Dawson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbdthree/module-11-Express/issues"
+  },
+  "homepage": "https://github.com/fbdthree/module-11-Express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
