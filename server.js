@@ -5,7 +5,7 @@ const api = require("./routes/apiRoutes")
 const html = require("./routes/htmlRoutes")
 
 // Assign port.
-const PORT = process.env.PORT || 8080
+const PORT = process.env.PORT || 3003
 
 // Create express instance.
 const app = express()
